@@ -1,0 +1,22 @@
+2021-02-01 10:37:12,319 WARN  [SoapUI] Missing folder [C:\Users\SmritikonaSukul\Documents\SDETLP8\Project1\my-app\ext] for external libraries
+2021-02-01 10:37:12,864 INFO  [DefaultSoapUICore] initialized soapui-settings from [C:\Users\SmritikonaSukul\soapui-settings.xml]
+2021-02-01 10:37:14,159 INFO  [WsdlProject] Loaded project from [file:/C:/Users/SmritikonaSukul/Documents/SDETLP8/Project1/my-app/Add-Delete-Place-XML-soapui-project.xml]
+2021-02-01 10:37:14,948 INFO  [SoapUITestCaseRunner] Running SoapUI tests in project [Add Delete Place XML]
+2021-02-01 10:37:14,951 INFO  [SoapUITestCaseRunner] Running Project [Add Delete Place XML], runType = SEQUENTIAL
+2021-02-01 10:37:14,974 INFO  [SoapUITestCaseRunner] Running SoapUI testcase [Add & Delete Place]
+2021-02-01 10:37:15,009 INFO  [SoapUITestCaseRunner] running step [Add place]
+2021-02-01 10:37:15,421 INFO  [SoapUITestCaseRunner] running step [Property Transfer]
+2021-02-01 10:37:15,888 INFO  [SoapUITestCaseRunner] running step [Delete place]
+2021-02-01 10:37:16,098 INFO  [SoapUITestCaseRunner] Finished running SoapUI testcase [Add & Delete Place], time taken: 946ms, status: FINISHED
+2021-02-01 10:37:16,113 INFO  [SoapUITestCaseRunner] Running SoapUI testcase [Add & Delete Place_withoutProperty]
+2021-02-01 10:37:16,115 INFO  [SoapUITestCaseRunner] running step [Add place]
+2021-02-01 10:37:16,244 INFO  [SoapUITestCaseRunner] running step [Delete place]
+2021-02-01 10:37:16,445 INFO  [SoapUITestCaseRunner] Finished running SoapUI testcase [Add & Delete Place_withoutProperty], time taken: 305ms, status: FINISHED
+2021-02-01 10:37:16,454 INFO  [SoapUITestCaseRunner] Running SoapUI testcase [Add & Delete Place_Assertion]
+2021-02-01 10:37:16,455 INFO  [SoapUITestCaseRunner] running step [Add place]
+2021-02-01 10:37:17,601 INFO  [log] 29e6029f8105b6cf213dad6e849d0ec1
+2021-02-01 10:37:17,619 INFO  [SoapUITestCaseRunner] Assertion [Script Assertion] has status VALID
+2021-02-01 10:37:17,619 INFO  [SoapUITestCaseRunner] running step [Properties]
+2021-02-01 10:37:18,056 INFO  [SoapUITestCaseRunner] running step [Delete place]
+2021-02-01 10:37:18,251 INFO  [SoapUITestCaseRunner] Finished running SoapUI testcase [Add & Delete Place_Assertion], time taken: 733ms, status: FINISHED
+2021-02-01 10:37:18,254 INFO  [SoapUITestCaseRunner] Project [Add Delete Place XML] finished with status [FINISHED] in 3294ms
